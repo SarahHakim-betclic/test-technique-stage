@@ -27,7 +27,7 @@ Cette métrique permet d'évaluer la qualité du classement.
 Le rendu final : 
 - un document pdf (explication de la méthode utilsée, analyse des données, évaluation du modèle de machine learning, résultats obtenus, graphes...) 
 - un jupyter notebook contenant le code (utilisation de pandas, scikit-learn, plots)
-- un csv de prédictions pour la saison 2021 à partir des données de test avec :  mom du joueur, share prédit, rang prédit.
+- un csv de prédictions pour la saison 2021 à partir des données de test avec :  nom du joueur, share prédit, rang prédit.
 
 ## Liens utiles
 
