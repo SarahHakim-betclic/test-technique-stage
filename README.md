@@ -42,7 +42,7 @@ Glossaire : https://www.basketball-reference.com/about/glossary.html
 
 ## Sources
 Voting data : https://www.basketball-reference.com/awards/awards_2016.html  
-Player data : https://www.basketball-reference.com/leagues/NBA_2022.html  
+Player data : https://www.basketball-reference.com/leagues/NBA_2022_per_game.html
 Teams data : https://www.basketball-reference.com/leagues/NBA_2021_standings.html  
 
 Dataset : https://www.kaggle.com/datasets/vivovinco/19912021-nba-stats
