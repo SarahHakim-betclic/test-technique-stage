@@ -13,11 +13,11 @@ Certains joueurs peuvent apparaitre plusieurs fois s'ils ont changé d'équipe e
 
 ## Questions 
 
-1 - Construire un modèle de machine learning à partir des données de train afin prédire le pourcentage des votes du jury reçu par un joueur. 
+1 - Construire un modèle de machine learning à partir des données de train afin prédire la part des votes du jury reçu par un joueur. 
 La variable à prédire est le **share**.
 
-2 - Utiliser les prédictions du modèle pour reconstituer le classement MVP dans le dataset de test. 
-Ajouter une colonne "rank", qui contiendrait le classement des joueurs sur la saison 2021. 
+2 - Utiliser le share prédit par le modèle pour reconstituer le classement MVP dans le dataset de test. 
+Ajouter une colonne "rank", qui contiendrait le classement des joueurs sur la saison 2021 en fonction du share qui a été prédit. 
 
 3 - Calculer le NDGC (Normalized Discounted Cumulative Gain) sur le dataset de test. 
 Cette métrique permet d'évaluer la qualité du classement.
